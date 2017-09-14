@@ -9,3 +9,5 @@ The changelog is ordered from top to bottom starting with the oldest change
 Changlog
 
 added changelog
+
+added pic and quote
