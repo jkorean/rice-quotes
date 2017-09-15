@@ -12,4 +12,6 @@ added changelog
 
 added pic and quote
 
-added tooltip w/ title  
+added tooltip w/ title 
+
+added links to all actor images and an actor view to show a single actor
