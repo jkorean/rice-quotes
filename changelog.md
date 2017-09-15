@@ -11,3 +11,5 @@ Changlog
 added changelog
 
 added pic and quote
+
+added tooltip w/ title  
